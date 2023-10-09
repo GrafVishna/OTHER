@@ -1,0 +1,70 @@
+"tables": {
+    "test":
+[
+    {
+        "title0": "Residence",
+        "title1": "Bed/Bath",
+        "title2": "SQ. FT.",
+        "title3": "Sale Price",
+        "title4": "Rent Price",
+        "title5": "Floor Plan",
+    },
+    {
+        "residence": "LUX APARTMENT",
+        "bed/bath": "3/2",
+        "sq/ft": "110",
+        "sale": "$350,000",
+        "rent": "$2,500",
+        "link": "https://google.com",
+    },
+    {
+        "residence": "THE GREEN VILLA",
+        "bed/bath": "3/3",
+        "sq/ft": "1120",
+        "sale": "$194,000",
+        "rent": "$3,500",
+        "link": "https://google.com",
+    },
+    {
+        "residence": "PENTHOUSE",
+        "bed/bath": "3/3",
+        "sq/ft": "320",
+        "sale": "$240,000",
+        "rent": "$2,500",
+        "link": "https://google.com",
+    },
+    {
+        "residence": "SPA LUXURY",
+        "bed/bath": "3/3",
+        "sq/ft": "520",
+        "sale": "$520,000",
+        "rent": "$9,000",
+        "link": "https://google.com",
+    },
+    {
+        "residence": "DUPLEX 13A",
+        "bed/bath": "3/3",
+        "sq/ft": "50",
+        "sale": "$150,000",
+        "rent": "$1,900",
+        "link": "https://google.com",
+    },
+    {
+        "residence": "STUDIO 8A",
+        "bed/bath": "3/3",
+        "sq/ft": "99",
+        "sale": "$50,000",
+        "rent": "$900",
+        "link": "https://google.com",
+    },
+    {
+        "residence": "SIMPLEX 12A8",
+        "bed/bath": "3/3",
+        "sq/ft": "100",
+        "sale": "$120,000",
+        "rent": "$1,000",
+        "link": "https://google.com",
+    }
+]
+
+}
