@@ -1,4 +1,4 @@
-{
+[
     "test":
     {
         "title0": "Residence",
@@ -65,3 +65,4 @@
         "link": "https://google.com",
     }
 }
+]
