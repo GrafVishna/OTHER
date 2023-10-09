@@ -1,6 +1,5 @@
-
+{
     "test":
-[
     {
         "title0": "Residence",
         "title1": "Bed/Bath",
@@ -65,4 +64,4 @@
         "rent": "$1,000",
         "link": "https://google.com",
     }
-]
+}
