@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url("./fa-solid-900.woff2");
+  src: url("https://raw.githubusercontent.com/GrafVishna/OTHER/refs/heads/main/fa-solid-900.woff2");
 }
 
 @font-face {
@@ -11,7 +11,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("./fa-regular-400.woff2");
+  src: url("https://raw.githubusercontent.com/GrafVishna/OTHER/refs/heads/main/fa-regular-400.woff2");
 }
 
 @font-face {
@@ -19,7 +19,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url("./fa-brands-400.woff2");
+  src: url("https://raw.githubusercontent.com/GrafVishna/OTHER/refs/heads/main/fa-brands-400.woff2");
 }
 
 /*!
